@@ -6,15 +6,9 @@ SVG Icons - svgicons.sparkk.fr
     width: 1em;
     height: 1em;
   }
-  
-  .svg-icon path,
-  .svg-icon polygon,
-  .svg-icon rect {
-    fill: white;
-  }
-
-  .svg-icon circle {
-    stroke: white;
-    stroke-width: 1;
-  }
-
+.svg-icon{
+    fill:rgb(232, 230, 227)
+}
+.svg-icon:hover{
+  fill:rgb(59, 130, 246)
+}
